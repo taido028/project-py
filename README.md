@@ -13,7 +13,7 @@ Your job is try to survive as long as you can and kill the zombie waves. When yo
 - Option 4: Upgrade your character' HP 
 - Option 5: Upgrade your reload time of the shotgun.
 
-Others function: Show highest score
+Others function: Show highest score.
 You will get 1 point for each zombie that you kill .
 
 #### install all needed by running following command:
