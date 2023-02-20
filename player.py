@@ -146,7 +146,7 @@ class Player(pygame.sprite.Sprite):
             else:
                 self.image = self.walk_imgs[self.anim_counter // self.anim_speed]
 
-            self.counter_plus()  # increase the counter by one (the counter determinates the frame of the animation 1-6)
+            self.counter_plus()  # increase the counter by one (the counter determines the frame of the animation 1-6)
         else:
             self.image = self.walk_imgs[0]
 
