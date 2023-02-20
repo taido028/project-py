@@ -2,9 +2,9 @@ Zombie game using Pygame
 
 Basic functions:
 
-Moving character - Based on basic principles and controls.
-Create enemy - Zombie will be spawned randomly from the edge of the screen. After each wave zombies will have more HP and move faster.
-Shooting - you will have a shotgun to kill zombie. 
+'' Moving character - Based on basic principles and controls
+'' Create enemy - Zombie will be spawned randomly from the edge of the screen. After each wave zombies will have more HP and move faster.
+'' Shooting - you will have a shotgun to kill zombie. 
 
 Your job is try to survive as long as you can and kill the zombie waves. When you pass the wave you will have 5 option to upgrade features.
 - Option 1: Upgrade bullet speed 
