@@ -25,7 +25,7 @@ You will get 1 point for each zombie that you kill .
 
 ```$ py main.py```
 
-Todo: Add sound - Add more type of enemy - Add some bosses or something that make the game more challenge
+TODO: Add sound - Add more type of enemy - Add some bosses or something that make the game more challenge
 
 
 
